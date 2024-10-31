@@ -250,6 +250,12 @@ p{
     p{
         padding: 0 50px;
     }
+    .content{
+        width:100%
+    }
+    .header{
+        height:39vh    
+    }
     .title{
         margin-bottom: 0px;
         font-size: 40px;
